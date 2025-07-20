@@ -73,9 +73,9 @@ Learn from industry professionals and researchers at the forefront of AI.
 
 ### 📚 What’s in This GitHub?
 Find:
-- 📄 [Documentation](#) — Tips, guides, project writeups
-- 💻 [Projects](#) — Code, datasets, open challenges, solution ideas
-- 👩‍💻 [Learning Resources](#) — Curated playlists, tutorials
+- 📄 Documentation — Tips, guides, project writeups
+- 💻 Projects— Code, datasets, open challenges, solution ideas
+- 👩‍💻 Learning Resources — Curated playlists, tutorials
 
 ---
 
